@@ -4,7 +4,7 @@
 ## Sample diagrams
 ![](./resources/showcase1.png)![](./resources/showcase2.png)![](./resources/showcase3.png)
 
-## Licence 
-This document is licenced under Creative Common 3.0 licence. Read more about it [here](https://creative-commons.com/).
+## License 
+This document is licensed under Creative Commons Attribution 4.0 International license. Read more about it [here](https://creativecommons.org/licenses/by/4.0/).
 
 ![](https://i.creativecommons.org/l/by-nc-sa/3.0/nl/88x31.png)
