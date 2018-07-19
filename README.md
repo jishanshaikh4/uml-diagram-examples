@@ -6,3 +6,5 @@ UML diagram examples in Software Engineering and Modelling design. Since, there 
 
 ## Licence 
 This document is licenced under Creative Common 3.0 licence. Read more about it [here](https://creative-commons.com/).
+
+![](https://i.creativecommons.org/l/by-nc-sa/3.0/nl/88x31.png)
